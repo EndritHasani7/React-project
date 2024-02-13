@@ -1,0 +1,28 @@
+.menu-title {
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+    padding: 8px 13px;
+    border-radius: 7px;
+}
+
+.menu-item, 
+#basic-nav-dropdown {
+    color: black;
+    padding: 8px 18px;
+    border-radius: 7px;
+    margin-left: 35px;
+    font-size: 18px;
+    background-color: #f8f9fa;
+}
+
+.menu-item:hover, 
+#basic-nav-dropdown:hover {
+    color: aliceblue;
+    background-color: #121111;
+}
+
+.drop-menu-item:hover {
+    color: #f8f9fa;
+    background-color: rgba(53, 43, 43, 0.751);
+}
